@@ -375,3 +375,4 @@ const friends = ['Bob', 'Tony', 'Tanya']
 ```
 Change in branch2 - commit 1
 Change in branch2 - commit 2
+Change in branch2 - commit 3
