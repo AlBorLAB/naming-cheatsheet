@@ -379,3 +379,4 @@ Change in branch1 - commit 3
 Additional change in branch1 - commit 1
 Additional change in branch1 - commit 1
 Additional change in branch1 - commit 2
+Additional change in branch1 - commit 3
